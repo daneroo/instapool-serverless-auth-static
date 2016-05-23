@@ -1,5 +1,5 @@
 # Demo page for serverless-authentication
 
-http://laardee.github.io/serverless-authentication-gh-pages/
+http://daniel-lauzon.com/instapool-serverless-auth-static/
 
 simple authentication demo
