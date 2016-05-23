@@ -1,6 +1,6 @@
 'use strict';
 
-var endpoint = 'https://xg5mkc5ci8.execute-api.us-west-2.amazonaws.com/prod';
+var endpoint = 'https://5zp493znk9.execute-api.us-east-1.amazonaws.com/dev';
 
 function testToken() {
   var authorizationToken = localStorage.getItem('authorization_token');
